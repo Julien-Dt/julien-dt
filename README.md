@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Julien, Junior Data Analyst.
+
 I'm working on becoming Data Scientist.
 
 <a href="https://www.linkedin.com/in/julien-d-342747110/">
